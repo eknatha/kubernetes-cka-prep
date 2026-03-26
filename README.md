@@ -4,7 +4,9 @@ A structured, hands-on 21-day preparation plan to crack the **Certified Kubernet
 
 ---
 
+
 ![Eknatha](https://img.shields.io/badge/Eknatha-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
 
 
 
@@ -61,16 +63,55 @@ kubernetes-cka-prep/
 ├── day05-services.md
 ├── ...
 │
-├── labs/
-│   ├── pod.yaml
-│   ├── deployment.yaml
-│
-├── troubleshooting/
-│   ├── crashloopbackoff.md
-│   ├── imagepullerror.md
+├── labs/                 # YAML files and hands-on configs
+├── troubleshooting/      # Common issues and fixes
+├── exam-scenarios/       # Real exam-like scenarios ⭐
+├── cheatsheets/          # Quick revision notes ⚡
+├── notes/                # Concept explanations 🧠
+├── mock-tests/           # Practice exams 🎯
+├── scripts/              # Automation scripts 🛠️
+├── diagrams/             # Architecture visuals 📊
+├── resources/            # Useful links & references 🔗
 │
 └── README.md
 ```
+
+---
+
+## 📁 Folder Breakdown
+
+### 🧪 labs/
+Contains YAML manifests and practical configurations used during hands-on practice.
+
+### 🐞 troubleshooting/
+Real-world Kubernetes issues like:
+- CrashLoopBackOff
+- ImagePullBackOff
+- Debugging pods and services
+
+### 🎯 exam-scenarios/
+Practice real CKA-style problems with step-by-step solutions.
+
+### ⚡ cheatsheets/
+Quick reference guides for:
+- kubectl commands
+- YAML templates
+- Debugging steps
+
+### 🧠 notes/
+Concept-focused notes for revision and interviews.
+
+### 📝 mock-tests/
+Time-based practice tests to simulate real exam conditions.
+
+### 🛠️ scripts/
+Automation scripts for setup, cleanup, and efficiency.
+
+### 📊 diagrams/
+Visual representations of Kubernetes architecture and workflows.
+
+### 🔗 resources/
+Curated list of learning materials, tools, and practice platforms.
 
 ---
 
